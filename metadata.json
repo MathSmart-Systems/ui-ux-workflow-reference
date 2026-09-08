@@ -1,0 +1,6 @@
+{
+  "name": "MathSmart",
+  "description": "AI-Powered Interactive Learning System for Enhancing Mathematics Skills Among Elementary Learners",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
